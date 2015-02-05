@@ -8,4 +8,4 @@ The program has been tested using python 2.7+.
 
 Uses pynacl (in turn libsdium) as underlying crypto library. 
 
-Usage: "python filecrypt.py -f <enc/dec> -i <input filename> -o <output filename> -k <key>
+Usage: "python filecrypt.py -f enc/dec -i input filename -o output filename -k key
